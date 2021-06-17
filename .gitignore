@@ -1,2 +1,11 @@
-*.class
-*.log
+/target
+/dist
+/project/target
+/.idea
+/logs/
+*/target
+*/project/target
+*/.idea
+*/.bsp
+*/logs/
+
