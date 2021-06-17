@@ -9,3 +9,4 @@
 */.bsp
 */logs/
 
+/.bsp/sbt.json
