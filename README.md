@@ -1,5 +1,7 @@
 ## Scala 3 learning material and reference
 
+Updated to Scala 3.1 in January 2022.
+
 All of these code snippits (well most) are descibed in the single page crammer at:
 
 [http://gibbons.org.uk/terse-scala3-notes-2021](http://gibbons.org.uk/terse-scala3-notes-2021)
